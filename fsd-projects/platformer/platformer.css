@@ -3,8 +3,9 @@ body {
 }
 
 canvas {
-  background-color: rgb(255, 255, 255);
-  margin: 20px;
+  background-image: url("r\ u\ sure.jpg");
+  margin: 0px;
+  background-size: 1400px;
 }
 
 img {

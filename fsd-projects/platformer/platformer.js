@@ -38,7 +38,7 @@ createPlatform(400, 300, 290, 20, "rgb(255, 0, 0)");
 createPlatform(1200, 600, 300, 20, "rgb(255, 0, 0)");
 
     // TODO 3 - Create Collectables
-createCollectable("diamond", 650, 100, 0.5, 0.7);
+createCollectable("steve", 650, 100, 0.5, 0.7);
 createCollectable("steve", 1350, 545);
 createCollectable("steve", 1000, 350);
 
